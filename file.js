@@ -23,6 +23,8 @@ function calcular(){
     resposta.innerHTML = valor1 * valor2;
     if(operacao==="dividir")
     resposta.innerHTML = valor1 / valor2;
+
+    //alteração para testar apenas//
 }
     
 }
